@@ -1,8 +1,14 @@
-# Assignment Name
-due date
+# **Top Five Movies**
 
-### Assignment Description
+## **Assignment Description**
+Create a method named topFiveMovies that returns a given set of your top five movies.  
+Print out this method in your main method.
 
-### Limitations
+## **Example**
+>Shrek, Shrek 2, Shrek 3, Shrek 4, Shrek 5
 
-### Hints
+## **Limitations**
+1 sysout method
+
+## **Hints**
+Your topFiveMovies method must take in five strings as parameters.
